@@ -1,2 +1,2 @@
 # Portfolio
-Personal portfolio of work
+A collection of various projects 
